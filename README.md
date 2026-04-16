@@ -1,3 +1,4 @@
+
 HR-Analytics-Attrition-Analysis
 
 HR Analytics project focused on analyzing employee attrition using Power BI. Includes KPIs, dashboards, and insights to support employee retention strategies.
@@ -19,6 +20,8 @@ KPIs Tracked
 - Attrition by Department
 - Attrition by Age Group
 - Attrition by Gender
+
+<img width="1323" height="741" alt="HR Analytics Screenshot" src="https://github.com/user-attachments/assets/b403fa08-c07f-4c97-853e-c6b2c14eaf5a" />
 
 Key Insights
 - The Sales department has the highest attrition (20%+), indicating potentially high-pressure roles
